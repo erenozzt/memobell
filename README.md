@@ -31,7 +31,7 @@ This repository contains a simple landing page for the MemoBell app and the app-
 
 - Website: `https://erenozzt.github.io/memobell`
 - app-ads.txt: `https://erenozzt.github.io/memobell/app-ads.txt`
-- App Store: `https://apps.apple.com/tr/app/memobell/id6753660486MemoBell` 
+- App Store: `https://apps.apple.com/us/app/memobell/id6753660486` 
 
 ## Verification Status:
 
